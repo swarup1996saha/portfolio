@@ -17,6 +17,16 @@
     --White:#e6f1ff;
     --Green:#64ffda;
 }
+/* custom Scrollbar */
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    background-color: var(--white);
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--navy);
+}
 section{
     padding: 80px 200px;
     background-color: var(--navy);
