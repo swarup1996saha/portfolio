@@ -25,7 +25,7 @@
     background-color: var(--white);
 }
 ::-webkit-scrollbar-thumb{
-    background-color: var(--navy);
+    background-color: var(--Green);
 }
 section{
     padding: 80px 200px;
