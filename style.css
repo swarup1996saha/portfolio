@@ -356,7 +356,7 @@ header .navigation a:hover::after{
     font-size: 100px;
     display: block;
     text-align: center;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 .icon span{
     position: relative;
